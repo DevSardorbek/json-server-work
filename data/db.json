@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "ec3c",
+      "title": "olcha",
+      "price": 20003
+    },
+    {
+      "id": "cf42",
+      "title": "meva",
+      "price": 10000000
+    },
+    {
+      "id": "af6b",
+      "title": "tarvuz",
+      "price": 20000
+    },
+    {
+      "id": "4e34",
+      "title": "ddd",
+      "price": 2020
+    }
+  ]
+}
